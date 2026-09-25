@@ -18,6 +18,7 @@
     "vite": "latest"
   },
   "devDependencies": {
+    "@eslint/js": "latest",
     "eslint": "latest",
     "eslint-plugin-react-hooks": "latest",
     "eslint-plugin-react-refresh": "latest"
